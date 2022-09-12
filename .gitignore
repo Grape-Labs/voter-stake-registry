@@ -6,6 +6,7 @@ target
 
 dist
 node_modules
+docker-target
 
 .idea
 
